@@ -24,13 +24,15 @@ Power BI, DAX, Power Query, Star Schema
 ## Screenshots
 
 **Home Page**
-<img src="https://github.com/user-attachments/assets/9cf1c9ec-93be-47c4-96a6-6558601823bd" width="100%" />
+<img src="https://github.com/user-attachments/assets/56c6200a-1b5e-4a4c-b7bb-c2e29eb5c23d" width="100%" />
+
 
 **Overview Page**
-<img src="https://github.com/user-attachments/assets/c90d02f7-8f44-4b76-99a1-8aa1c1931c8a" width="100%" />
-
-**Attrition Page**
 <img src="https://github.com/user-attachments/assets/7969c25b-ca16-491c-b8d5-d0cfafe4430c" width="100%" />
 
+
+**Attrition Page**
+<img src="https://github.com/user-attachments/assets/c90d02f7-8f44-4b76-99a1-8aa1c1931c8a" width="100%" />
+
 **Employee Details Page**
-<img src="https://github.com/user-attachments/assets/56c6200a-1b5e-4a4c-b7bb-c2e29eb5c23d" width="100%" />
+<img src="https://github.com/user-attachments/assets/9cf1c9ec-93be-47c4-96a6-6558601823bd" width="100%" />
